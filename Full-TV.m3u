@@ -75,7 +75,7 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6264
 http://ipflix.click:8080/sq1x0qr86b/7777/6240
 #EXTINF:-1 group-title="OFFLINE" tvg-id="Crime + Investigation HD" tvg-name="Crime + Investigation HD TV" tvg-logo="http://100.10.10.12/kodi/logo/crime + investigation.png" ,Crime + Investigation HD
 http://ipflix.click:8080/sq1x0qr86b/7777/8197
-#EXTINF:-1 group-title="TV" tvg-id="Warner TV Comedy HD" tvg-name="Warner TV Comedy" tvg-logo="http://100.10.10.12/kodi/logo/WarnerTV_COMEDY_HD_Logo_2021.svg.png" ,WarnerTV Comedy HD
+#EXTINF:-1 group-title="TV" tvg-id="Warner TV Comedy (Sky)" tvg-name="Warner TV Comedy" tvg-logo="http://100.10.10.12/kodi/logo/WarnerTV_COMEDY_HD_Logo_2021.svg.png" ,WarnerTV Comedy HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/687541
 #EXTINF:-1 group-title="TV" tvg-id="Warner TV Film HD" tvg-name="Warner TV Film" tvg-logo="http://100.10.10.12/kodi/logo/WarnerTV_FILM_HD_Logo_2021.svg.png" ,WarnerTV Film HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6156
@@ -95,7 +95,7 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6190
 http://ipflix.click:8080/sq1x0qr86b/7777/8223
 #EXTINF:-1 group-title="TV" tvg-id="SkyCinemaFamily.de" tvg-name="Sky Cinema Family" tvg-logo="http://100.10.10.12/kodi/logo/Sky-Cinema-HD-Family.png" ,Sky Cinema Family HD
 http://ipflix.click:8080/sq1x0qr86b/7777/9145
-#EXTINF:-1 group-title="OFFLINE" tvg-id="SkyCinemaClassics" tvg-name="Sky Cinema Classics TV" tvg-logo="http://100.10.10.12/kodi/logo/classics hd.png" ,Sky Cinema Classics HD
+#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaClassics" tvg-name="Sky Cinema Classics TV" tvg-logo="http://100.10.10.12/kodi/logo/classics hd.png" ,Sky Cinema Classics HD
 http://ipflix.click:8080/sq1x0qr86b/7777/13131
 #EXTINF:-1 group-title="TV" tvg-id="Sky Comedy HD" tvg-name="Sky Comedy HD" tvg-logo="http://100.10.10.12/kodi/logo/Sky-Cinema-Comedy.png" ,Sky Cinema Comedy VIP HD
 http://ipflix.click:8080/sq1x0qr86b/7777/688822
@@ -153,7 +153,7 @@ http://ipflix.click:8080/sq1x0qr86b/7777/683540
 http://ipflix.click:8080/sq1x0qr86b/7777/683534
 #EXTINF:-1 group-title="TV" tvg-name="HyperCinema INFO HD" tvg-logo="http://100.10.10.12/kodi/logo/HyperCinema.jpg" ,HyperCinema INFO HD
 http://ipflix.click:8080/sq1x0qr86b/7777/683523
-#EXTINF:-1 group-title="TV" tvg-name="HyperCinema 1 HD" tvg-logo="http://100.10.10.12/kodi/logo/HyperCinema.jpg" ,HyperCinema 1 HD
+#EXTINF:-1 group-title="OFFLINE" tvg-name="HyperCinema 1 HD" tvg-logo="http://100.10.10.12/kodi/logo/HyperCinema.jpg" ,HyperCinema 1 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/683535
 #EXTINF:-1 group-title="TV" tvg-name="HyperCinema 2 HD" tvg-logo="http://100.10.10.12/kodi/logo/HyperCinema.jpg" ,HyperCinema 2 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/683525
@@ -393,11 +393,11 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6180
 http://ipflix.click:8080/sq1x0qr86b/7777/6179
 #EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Sport 9 [Match Time] HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/6178
-#EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Sport 10 [Match Time] HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Sport 10 [Match Time] HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/6177
 #EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Sport Bundesliga 1 [Match Time] FHD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/684430
-#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Sport Bundesliga 1 [Match Time-B] FHD DE
+#EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Sport Bundesliga 1 [Match Time-B] FHD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/683408
 #EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Sport Bundesliga 1 [Match Time] HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/73136
@@ -659,7 +659,7 @@ http://ipflix.click:8080/sq1x0qr86b/7777/683540
 http://ipflix.click:8080/sq1x0qr86b/7777/683534
 #EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,(ONLINE) HyperCinema INFO FHD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/683523
-#EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,(ONLINE) HyperCinema 1 FHD DE
+#EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,(ONLINE) HyperCinema 1 FHD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/683535
 #EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,(ONLINE) HyperCinema 2 HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/683525
@@ -715,7 +715,7 @@ http://ipflix.click:8080/sq1x0qr86b/7777/679843
 http://ipflix.click:8080/sq1x0qr86b/7777/6244
 #EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,(ONLINE) Spiegel Geschichte HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/6174
-#EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,(ONLINE) Spiegel TV Wissen HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,(ONLINE) Spiegel TV Wissen HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/9135
 #EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,(ONLINE) Discovery FHD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/13570
@@ -799,7 +799,7 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6257
 http://ipflix.click:8080/sq1x0qr86b/7777/6253
 #EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,(ONLINE) Nickelodeon HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/6224
-#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,(ONLINE) Fix & Foxi DE
+#EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,(ONLINE) Fix & Foxi DE
 http://ipflix.click:8080/sq1x0qr86b/7777/23771
 #EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,(OFFLINE) ??? DE Music ???
 http://ipflix.click:8080/sq1x0qr86b/7777/678925
@@ -823,15 +823,15 @@ http://ipflix.click:8080/sq1x0qr86b/7777/13165
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6256
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) RTL Passion FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8219
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) Crime & Investigation FHD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) Crime & Investigation FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6263
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Crime & Investigation HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Crime & Investigation HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8197
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) E! Entertainment FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13569
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) E! Entertainment HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) E! Entertainment HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9137
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) E! Entertainment DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) E! Entertainment DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5095
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) SRF 1 DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6170
@@ -859,13 +859,13 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6165
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6152
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Franken Fernsehen FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/677835
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) BW Family TV FHD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) BW Family TV FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6246
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) BW Family TV HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) BW Family TV HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/23772
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) ??? DE Sports ???
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) ??? DE Sports ???
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/678834
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) ??? DE Movies & Series ???
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) ??? DE Movies & Series ???
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/678836
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Cinema Action FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5093
@@ -881,15 +881,15 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5089
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7372
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Cinema Thriller DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6193
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Cinema Premieren FHD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Cinema Premieren FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6194
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Cinema Premieren HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Cinema Premieren HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7373
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Cinema Premieren +24 FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6192
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Cinema Premieren +24 HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13133
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Cinema Action DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Cinema Action DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9146
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Cinema Fun HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9144
@@ -897,7 +897,7 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9144
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6190
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Cinema Best Of FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7368
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Cinema Best Of HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Cinema Best Of HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8223
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Cinema Family FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9145
@@ -907,13 +907,13 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7369
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13131
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Cinema Classics DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6186
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Cinema Best of DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Cinema Best of DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5088
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Cinema Comedy VIP HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/688822
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Krimi VIP HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/688821
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Krimi HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Krimi HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8220
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Atlantic HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7367
@@ -931,13 +931,13 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9138
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9147
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Replay FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/23770
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Replay HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Replay HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6245
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Syfy FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7364
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Syfy HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Syfy HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5087
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Syfy DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Syfy DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6164
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) WarnerTV Comedy FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6157
@@ -945,21 +945,21 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6157
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/687541
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) WarnerTV Film FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6156
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) WarnerTV Film HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) WarnerTV Film HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683894
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) WarnerTV Serie FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5084
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) WarnerTV Serie HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) WarnerTV Serie HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6155
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) WarnerTV Serie DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13154
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Universal FHD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Universal FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5265
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sony Channel HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6167
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Kinowelt FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6240
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Kinowelt HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Kinowelt HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/672086
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Eagle Cinema Premiere FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/681946
@@ -971,7 +971,7 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/681950
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/681949
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Eagle Cinema Animation HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/681939
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Eagle Cinema Mythologie HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Eagle Cinema Mythologie HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/681945
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Eagle Cinema Lcheln HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/681944
@@ -1023,13 +1023,13 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683540
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683534
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) HyperCinema INFO FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683523
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) HyperCinema 1 FHD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) HyperCinema 1 FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683535
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) HyperCinema 2 HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683525
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) HyperCinema 3 FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683526
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) HyperCinema 4 FHD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) HyperCinema 4 FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683527
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) HyperCinema 5 HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683528
@@ -1039,7 +1039,7 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683529
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683530
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) HyperCinema 8 FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683531
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) AXN FHD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) AXN FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5097
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) AXN HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6259
@@ -1047,9 +1047,9 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6259
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6154
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Romance TV HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13152
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Romance TV DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Romance TV DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6211
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Heimat Kanal HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Heimat Kanal HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/678481
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Heimat Kanal DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6188
@@ -1061,11 +1061,11 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6208
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9150
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Bibel TV HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/677497
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) FilMax Hits FHD VIP DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) FilMax Hits FHD VIP DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/688717
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Genius Family DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/690457
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) ??? Documentary ???
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) ??? Documentary ???
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/678919
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) ZDF Info HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9148
@@ -1073,7 +1073,7 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9148
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679837
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Kabel Eins Doku FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13147
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Kabel Eins Doku DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Kabel Eins Doku DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679843
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) History Channel FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6244
@@ -1083,7 +1083,7 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6174
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9135
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Discovery FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13570
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Discovery HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Discovery HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5096
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Bergblick HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679846
@@ -1093,11 +1093,11 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8196
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13173
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) National Geographic HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8194
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) National Geographic DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) National Geographic DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6226
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Nat Geo wild FHD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Nat Geo wild FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6227
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Nat Geo Wild HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Nat Geo Wild HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9136
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Nat Geo Wild DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5085
@@ -1105,7 +1105,7 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5085
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/688723
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Welt der Wunder HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679838
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Welt der Wunder DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Welt der Wunder DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13129
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Anixe HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6264
@@ -1133,7 +1133,7 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6228
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13149
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) N-TV HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8195
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) N-TV DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) N-TV DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13566
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) Munchen TV DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6229
@@ -1141,13 +1141,13 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6229
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6221
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Tagesschau 24 HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6163
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) ??? DE Children ???
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) ??? DE Children ???
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/678923
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) Super RTL FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13554
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Super RTL HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6166
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) KiKa FHD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) KiKa FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679839
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Kika HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6241
@@ -1165,7 +1165,7 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6253
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6224
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Fix & Foxi DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/23771
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) ??? DE Music ???
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(OFFLINE) ??? DE Music ???
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/678925
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) MTV FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/35466
@@ -1173,7 +1173,7 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/35466
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/638080
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Sky Classica DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6191
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Classica HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Classica HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13167
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,(ONLINE) Jukebox DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13148
